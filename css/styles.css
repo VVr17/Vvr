@@ -233,7 +233,7 @@ p,
 }
 
 .skills-item:not(:last-child) {
-  margin-bottom: 42px;
+  margin-bottom: 28px;
 }
 
 .inner-list {
